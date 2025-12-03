@@ -1,0 +1,19 @@
+{
+  "name": "sistema-solar-threejs",
+  "version": "1.0.0",
+  "description": "Sistema Solar Interactivo con Three.js, Tween.js y Física",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "@tweenjs/tween.js": "^23.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
